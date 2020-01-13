@@ -5,8 +5,6 @@
 
 # Player 1 controls: W = up, S = down
 # Player 2 controls: Up Arrow = up, Down Arrow = down
-# Player 3 controls: 7 = left, 8 = right
-# Player 4 controls: B = left, N = right
 
 import pygame, random, sys
 
